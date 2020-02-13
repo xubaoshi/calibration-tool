@@ -1,0 +1,12 @@
+{
+  "name": "calibration-tool",
+  "version": "1.0.0",
+  "description": "canvas-based calibration tool",
+  "main": "index.js",
+  "repository": "https://github.com/xubaoshi/calibration-tool.git",
+  "author": "xubaoshi <948869516@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^1.31.0"
+  }
+}
